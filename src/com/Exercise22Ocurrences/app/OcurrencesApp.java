@@ -54,13 +54,6 @@ public class OcurrencesApp
 	System.out.println(" ");	
 	System.out.println(miHash);	
 	
-	/*
-	for (int i: miArray)
-	{
-		System.out.print(" "+i);
-	}
-	*/
-	
 	}
 
 }
